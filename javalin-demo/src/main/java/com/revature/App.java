@@ -15,3 +15,11 @@ public class App
         app.start(7071);
     }
 }
+
+/**
+ * maven - as a dependency manager and build tool
+ * structure of maven (arc/main+test)
+ * mvnrespository, an online library of all open source maven projects
+ * different stages of mvn lifecycles - eg validate, compile, test, package
+ * getting Javalin into our porjects
+ */
